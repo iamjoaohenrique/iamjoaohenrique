@@ -1,8 +1,6 @@
 ✨ João Henrique ✨
 
-Olá pessoal!!! 👋
-
-https://www.linkedin.com/in/iamjoaohenrique/
+Olá pessoal!!! 👋😄
 
 
 Sou apaixonado por resolver problemas com tecnologia. Não tenho medo em começar algo do zero.<br>
