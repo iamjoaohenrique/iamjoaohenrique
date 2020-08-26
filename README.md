@@ -3,7 +3,7 @@
 Olá pessoal!!! 👋😄
 
 
-Sou apaixonado por resolver problemas com tecnologia. Não tenho medo em começar algo do zero.<br>
+Sou apaixonado por resolver problemas com tecnologia. Desde de criança meus olhos bilhava quando usava um computador e cada vez isso ficou mais intenso.<br>
 
 🚀   Atualmente estudo Sistemas da Informação na Uninove<br>
 😄   Busco colaborar com projetos tanto em front-end quanto em back-end usando Angular9, ReactJS, React Native e Node.js<br>
