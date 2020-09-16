@@ -3,7 +3,7 @@
 Olá pessoal!!! 👋😄
 
 
-Sou apaixonado por resolver problemas com tecnologia. Desde de criança meus olhos bilhava quando usava um computador e cada vez isso ficou mais intenso.<br>
+Sou apaixonado por trabalhar com tecnologia desde de criança meus olhos bilhava quando usava um computador e cada vez isso ficou mais intenso.<br>
 
 🚀   Atualmente estudo Sistemas da Informação na Uninove<br>
 
