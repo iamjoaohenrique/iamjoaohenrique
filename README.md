@@ -1,6 +1,6 @@
 <img align="left" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif>
 
-
+```diff
 ✨ João Henrique ✨
 
 Olá pessoal!!! 👋😄
@@ -16,6 +16,6 @@ Sou apaixonado por resolver problemas com tecnologia. Desde de criança meus olh
 
 💬   Meus Contatos: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
 
-
+```
 <!--
 **iamjoaohenrique/iamjoaohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
