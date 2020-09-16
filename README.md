@@ -1,5 +1,5 @@
 <img align="right" height="150" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/l0HlHLM0hD7bimkus/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif"/>
 
 
 ```diff
