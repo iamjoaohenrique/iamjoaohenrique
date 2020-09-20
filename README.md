@@ -1,4 +1,4 @@
-<img align="center" height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif"/>
+<img align="center" height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif">
 
 Olá pessoal!!! 👋😄
 
