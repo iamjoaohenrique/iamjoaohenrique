@@ -2,7 +2,7 @@
   <img  height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif">
 </h1>
 
-<h2 align="center">Olá pessoal!!! 👋😄</h2>
+<h2 align="center">Olá Pessoal!!! 👋😄</h2>
 
 
 Sou apaixonado por trabalhar com tecnologia desde de criança meus olhos bilhava quando usava um computador e cada vez isso ficou mais intenso.<br>
