@@ -1,5 +1,6 @@
-<img align="center" height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif">
-
+<h1>
+  <img align="center" height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif">
+</h1>
 Olá pessoal!!! 👋😄
 
 
