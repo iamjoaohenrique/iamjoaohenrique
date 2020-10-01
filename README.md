@@ -9,11 +9,11 @@ Sou apaixonado por trabalhar com tecnologia desde de criança meus olhos bilhava
 
 🚀   Atualmente estudo Sistemas da Informação na Uninove<br>
 
-😄   Busco colaborar com projetos tanto em front-end quanto em back-end usando Angular9, ReactJS, React Native e Node.js<br>
+🤓   Busco colaborar com projetos tanto em front-end quanto em back-end usando Angular, ReactJS, React Native e Node.js<br>
 
-💻   Stack que estou estudando: Angular9, ReactJS, Node.js, React Native & Typescript.<br>
+💻   Tecnologias que trabalho: Angular, ReactJS, Node.js, React Native<br>
 
-💬   Meus Contatos: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
+📞   Meus Contatos: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
 
 <!--
 **iamjoaohenrique/iamjoaohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
