@@ -2,18 +2,18 @@
   <img  height="" width="50%" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy-downsized.gif">
 </h1>
 
-<h2 align="center">Olá Pessoal!!! 👋😄</h2>
+<h2 align="center">Hello World!!! 👋😄</h2>
 
 
-Sou apaixonado por trabalhar com tecnologia desde de criança meus olhos bilhava quando usava um computador e cada vez isso ficou mais intenso.<br>
+I've been passionate about working with technology since I was a child my eyes lit up when I used a computer and it got more and more intense.<br>
 
-🚀   Atualmente estudo Sistemas da Informação na Uninove<br>
+🚀   Graduated in Information Systems<br>
 
-🤓   Busco colaborar com projetos tanto em front-end quanto em back-end usando Angular, ReactJS, React Native e Node.js<br>
+🤓   I look forward to collaborating with projects both front-end and back-end using Angular, ReactJS, React Native and Node.js<br>
 
-💻   Tecnologias que trabalho: Angular, ReactJS, Node.js, React Native<br>
+💻   Technologies that I work: Angular, Java<br>
 
-📞   Meus Contatos: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
+📞   My contacts: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
 
 <!--
 **iamjoaohenrique/iamjoaohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
