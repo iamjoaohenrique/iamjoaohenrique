@@ -13,11 +13,11 @@ I've been passionate about working with technology since I was a child my eyes l
 
 💻   Bachelor's degree in Information Systems with over 3 years of experience in web application development.<br>
 
-      • Proficient in Java and Angular technologies.<br>
-      • Expertise in developing applications using Spring, EBJ, WebSphere, Tomcat, Spring Boot, and Spring Batch.<br>
-      • Experienced in working with Eclipse IDE and IntelliJ IDEA.<br>
-      • Familiarity with Git, Jira, Docker, Gitlab, Kubernetes, Jenkins, Bitbucket, and Agile methodologies.<br>
-      • Adept at leveraging technology to build innovative solutions.<br>
+      • Proficient in Java and Angular technologies.
+      • Expertise in developing applications using Spring, EBJ, WebSphere, Tomcat, Spring Boot, and Spring Batch.
+      • Experienced in working with Eclipse IDE and IntelliJ IDEA.
+      • Familiarity with Git, Jira, Docker, Gitlab, Kubernetes, Jenkins, Bitbucket, and Agile methodologies.
+      • Adept at leveraging technology to build innovative solutions.
 
 📞   My contacts: [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjoaohenrique/)](https://www.linkedin.com/in/iamjoaohenrique/) [![Icloud Badge](https://img.shields.io/badge/-joaohs50@gmail.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joaohs50@gmail.com)](mailto:joaohs50@gmail.com)
 
