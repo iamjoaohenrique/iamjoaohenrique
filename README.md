@@ -11,7 +11,8 @@ I've been passionate about working with technology since I was a child my eyes l
 
 🤓   I look forward to collaborating with projects both front-end and back-end using Angular, ReactJS, React Native and Node.js<br>
 
-💻   Bachelor's degree in Information Systems with over 3 years of experience in web application development.<br><br>
+💻   Bachelor's degree in Information Systems with over 3 years of experience in web application development.<br>
+
       • Proficient in Java and Angular technologies.<br>
       • Expertise in developing applications using Spring, EBJ, WebSphere, Tomcat, Spring Boot, and Spring Batch.<br>
       • Experienced in working with Eclipse IDE and IntelliJ IDEA.<br>
